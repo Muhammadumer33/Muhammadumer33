@@ -1,4 +1,4 @@
-![logo](https://github.com/Muhammadumer33/Muhammad-Umer/blob/main/Blue%20Edgy%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/Muhammadumer33/Muhammadumer33/blob/main/Blue%20Edgy%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Umer</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
